@@ -1,9 +1,9 @@
 package ru.geekbrains.lesson6;
 
-public class Animals {
+public class Animal {
     private double animalDistanceRun, animalDistanceJump, animalDistanceSwim;
 
-    Animals(double animalDistanceRun, double animalDistanceJump, double animalDistanceSwim) {
+    Animal(double animalDistanceRun, double animalDistanceJump, double animalDistanceSwim) {
         this.animalDistanceRun = animalDistanceRun;
         this.animalDistanceJump = animalDistanceJump;
         this.animalDistanceSwim = animalDistanceSwim;
